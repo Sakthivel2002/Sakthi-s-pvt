@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 14px;
+    font-family: Helvetica; 
+ 
+}
+nav{
+    height:70px;
+    background-color: black;
+    padding:15px;
+    padding-left: 120px;
+    padding-right: 150px;
+}
+nav h2{
+    font-weight: 500;
+    display: inline-block;
+    color: #e50914;
+    font-size: 18px;
+
+}
+
+nav span {
+    color:white;
+    font-size: 18px;
+}
+
+nav button{
+    padding:5px 7px;
+}
+.ghost-button{
+    background-color: transparent;
+    color:white;
+    border:1px solid white;
+    text-align: center;
+    margin:0px 10px;
+    width: 100px;
+    cursor: pointer;
+    padding:5px 7px;
+}
+.sign-button {
+    background-color: transparent;
+    color:white;
+    border: 1px solid white;
+    text-align: center;
+    margin:0px 10px;
+    width:100px;
+    cursor: pointer;
+    padding:5px 7px;
+}
+nav .button-container {
+    float:right;
+}
+.sign-button {
+    background-color: red;
+    color:white;
+    border: 1px solid white;
+}
+.ghost-button:hover {
+    background-color:grey;
+    color: black;
+}
+.sign-button:hover {
+    background-color:darkred;
+
+} 
+nav .help {
+    color: white;
+    cursor: pointer;
+}
+.help:hover {
+    text-decoration: underline;
+}
+.container {
+    padding: 40px;
+    padding-left: 120px;
+    padding-right: 150px;
+}
+.print-button {
+    float: right;
+    color: black;
+    border: 1px solid black;
+    margin-top: 20px;
+    cursor: pointer;
+    width: 100px;
+    margin: 0px 2px;
+    padding: 4px 7px;
+    text-align: center;
+}
+footer {
+    height:200px;
+    background-color: #221f1f;
+    color:grey;
+    display: block;
+    padding:30px;
+}
+footer.footer_left_container {
+    float: right;
+    cursor: pointer;
+}
+footer.footer_left_container a{
+    margin-left: 20px;
+}
+footer.footer_left_container:hover {
+    text-decoration: underline;
+}
+.part1{
+    cursor:pointer;
+    padding-left: 200px;
+    padding-right: 0px;
+}
+.part2{
+    cursor: pointer;
+    padding-left: 200px;
+    padding-right: 0px;
+}
+.part3{
+    cursor: pointer;
+    padding-left: 200px;
+    padding-right: 0px;
+}
+.part4{
+    cursor: pointer;
+    padding-left: 200px;
+    padding-right: 0px;
+}
+.part1:hover{
+    text-decoration: underline;
+}
+.part2:hover{
+    text-decoration: underline;
+}
+.part3:hover{
+    text-decoration: underline;
+}
+.part4:hover{
+    text-decoration: underline;
+    
+}
+.content{
+    padding: 5px;
+    padding-left: 120px;
+    padding-right: 150px;
+}
+.Content {
+    padding:50px;
+    padding-left: 120px;
+    padding-right: 100px;
+}
+.content{
+    padding-left: 120px;
+    padding-right: 100px;
+
+}
