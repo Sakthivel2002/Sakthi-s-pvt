@@ -1,2 +1,2 @@
 # Sakthi,s pvt
- My Private Repo
+ My personal portfolio - https://sakthiportfoliosk.netlify.app/
